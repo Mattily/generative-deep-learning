@@ -1,0 +1,8 @@
+# Python virtual environments
+env/
+anaconda3/
+
+# Ignore system files
+ntuser.dat*
+ntuser.ini
+
